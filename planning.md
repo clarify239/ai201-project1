@@ -10,6 +10,7 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+> My domain is a guide to CS courses at Cornell University. Official course descriptions list topics and prerequisites, but they often do not include student experiences such as workload, grading style, etc. This knowledge is valuable because students use it to make realistic schedules, and it is scattered across many sources. 
 
 ---
 
@@ -20,17 +21,19 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
-
+| 1 | RateMyProfessor | Includes professor reviews and look for professors who teach courses that start with CS or INFO| https://www.ratemyprofessors.com/|
+| 2 | Cornell Course Catalog FA26| Includes all CS classes for Fall 2026| https://classes.cornell.edu/search/roster/FA26?q=&subjects%5B%5D=CS&days-type=any&distrReqs-type=any&explStudies-type=any&pi= |
+| 3 | Cornell CS Wiki| Already contains some compiled information about CS classes at Cornell | https://cornellcswiki.gitlab.io/#cs-classes |
+| 4 | Reddit | Scour the r/Cornell subreddit for information about Computer Science (CS) classes| https://www.reddit.com/r/Cornell/search/?q=CS&cId=4da5b906-9269-458a-bc38-f1d392c7b817&iId=efa91c2a-6a69-484f-b1b3-b331dbb949ce|
+| 5 | CS Wiki CS1110| Information about CS1110|https://cornellcswiki.gitlab.io/classes/CS1110.html |
+| 6 | CS Wiki CS2110| Information about CS2110| https://cornellcswiki.gitlab.io/classes/CS2110.html|
+| 7 |CS Wiki CS3110 | Information about CS3110 |https://cornellcswiki.gitlab.io/classes/CS3110.html |
+| 8 | CS Wiki CS4780 | Information about CS3780| https://cornellcswiki.gitlab.io/classes/CS4780.html|
+| 9 | Cornell Course Catalog SP26 | Includes all CS courses for Spring 26| https://classes.cornell.edu/search/roster/SP26?q=&subjects%5B%5D=CS&days-type=any&distrReqs-type=any&explStudies-type=any&pi= |
+| 10 |Reddit User Class Ranking | Includes a Reddit users ranking for the CS classes they've taken at Cornell | https://www.reddit.com/r/Cornell/comments/1cwhzr2/also_ranking_every_course_ive_ever_taken_at/|
+| 11 | Cornell Class Catalog | Courses offered at Cornell| https://courses.cornell.edu/courses/cs/ | 
+| 12 | Cornell CS BA | Degree requirements to get a BA in CS at Cornell | https://www.cs.cornell.edu/bachelor-arts-computer-science |
+| 13 | Cornell CS BS | Degree requirements to get a BS in CS at Cornell | https://bowers.cornell.edu/bachelor-science-computer-science | 
 ---
 
 ## Chunking Strategy
